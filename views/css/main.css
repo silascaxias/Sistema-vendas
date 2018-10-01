@@ -1,0 +1,37 @@
+.login-error {
+    display: block;
+    padding:8px;
+    color: #ff867f;
+    font-size: 11px;
+    border-radius: 3px;
+}
+
+.displayIB{
+    display:inline-block;
+}
+.w33{
+    width: 33%;
+}
+.container-main{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+section.bg-home {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+}
+.welcome-home {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    border-radius: 5px; 
+}
+.welcome-home-buttons {
+    width: 50%;
+    float: left;
+}
